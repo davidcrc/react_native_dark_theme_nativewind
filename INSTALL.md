@@ -16,10 +16,6 @@ yarn add nativewind
 yarn add --dev tailwindcss@3.3.2
 ```
 
-```bash
-yarn add postcss@8.4.23
-```
-
 - run:
 
 ```bash
